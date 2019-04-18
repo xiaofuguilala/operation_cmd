@@ -1,0 +1,25 @@
+我的gitlab操作命令
+
+
+1.git status
+
+2.将StudyGit项目中的文件提交到本地仓库+4步： git add .
+ 
+3.git remote -V
+
+4.git commit -m "说明文字"
+
+5. 添加远程地址 git remote add origin <url>
+
+6. git push origin master
+
+git push origin version2:master
+
+
+7.删除远程地址  git remote rm origin
+
+
+
+8.为StudyGit项目创建本地仓库 git init 
+
+9.克隆代码到本地 git clone <url>
